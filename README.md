@@ -1,3 +1,3 @@
 ## KOMINFO SUSPENDED PAGE PREVIEW
 
-![alt text](priview.jpg "Sample")
+![alt text](/priview.jpg "Sample")
