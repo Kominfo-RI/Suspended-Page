@@ -1,3 +1,10 @@
 ## KOMINFO SUSPENDED PAGE PREVIEW
 
-![alt text](/priview.jpg "Sample")
+![App Screenshot]([https://raw.githubusercontent.com/Kominfo-RI/Suspended-Page/main/preview.jpg])
+
+## Used By
+
+This Suspended Page is used by the following companies:
+
+- Kementerian Komunikasi dan Informatika
+- Situs Pemerintah Republik Indonesia 
