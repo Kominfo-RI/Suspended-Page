@@ -1,6 +1,6 @@
 ## KOMINFO SUSPENDED PAGE PREVIEW
 
-![App Screenshot](https://suspend.domain.go.id)
+![App Screenshot]([https://suspend.domain.go.id](https://raw.githubusercontent.com/Kominfo-RI/Suspended-Page/main/preview.jpg))
 
 ## Used By
 
